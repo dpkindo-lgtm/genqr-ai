@@ -1,0 +1,5 @@
+{
+  "name": "GenQR AI",
+  "description": "An intelligent QR code generator that uses Gemini to automatically format contact cards, WiFi credentials, and more from natural language descriptions.",
+  "requestFramePermissions": []
+}
